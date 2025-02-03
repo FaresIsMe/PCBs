@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-03012023-097075";"";
+"REFERENCE";"TS-103-T-A";"";
+"NUMBER_OF_POSITIONS";"3";"";
+"SERIES";"TS";"";
+"LEADS_TYPE";"-A";"";
+"TraceParts.PartTitle";"TS - .100"" Single Row Screw Machine Terminal Strip";"";
+"SUPPLIER";"Samtec";"";
+"DESIGN";".10"" Single Row Screw Machine Terminal Strip, TS-103-T-A";"";
+"TraceParts.InstanceId";"10-03012023-0970754PO9NYHOMRZTOHUO4T9IOMO75";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";

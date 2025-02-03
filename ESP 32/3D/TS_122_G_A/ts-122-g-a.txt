@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-03012023-097075";"";
+"REFERENCE";"TS-122-G-A";"";
+"NUMBER_OF_POSITIONS";"22";"";
+"SERIES";"TS";"";
+"LEADS_TYPE";"-A";"";
+"TraceParts.PartTitle";"TS - .100"" Single Row Screw Machine Terminal Strip";"";
+"SUPPLIER";"Samtec";"";
+"DESIGN";".10"" Single Row Screw Machine Terminal Strip, TS-122-G-A";"";
+"TraceParts.InstanceId";"10-03012023-0970759GBVYE1BM1GAJFGSW6E1XX7V9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";

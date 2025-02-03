@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=+5V BUS1 Pin=J3-B4A9
+Added Pin To Net: NetName=+5V BUS2 Pin=J4-B4A9
+Change Net Color : Old Net Color=Blue New Net Color=Default
